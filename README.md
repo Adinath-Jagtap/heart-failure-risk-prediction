@@ -13,7 +13,7 @@
 
 _Empowering healthcare professionals with AI-driven insights for better patient outcomes_
 
-🚀 [Live Demo](https://heart-failure-risk-prediction-v0jn.onrender.com)
+🚀 [Live Demo](https://heart-failure-risk-prediction-1-8rdr.onrender.com)
 
 </div>
 
